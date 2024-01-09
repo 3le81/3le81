@@ -1,14 +1,14 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="100"/>
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/elena-pagano-24000075/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="#">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="300" height="270"/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
@@ -33,7 +34,9 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
 
 
