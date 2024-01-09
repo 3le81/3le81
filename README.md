@@ -25,6 +25,17 @@
 
 ### :woman_technologist: About Me :
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+- :telescope: I’m studying as a Software Web Developer and as a Software Engineer, and practicing to frontend and backend for building web projects.
+
+- :seedling:  Passionate about learning and eager to apply newfound skills in real-world projects.
+
+- :zap: In my free time, I like to practice on Codewars and I love playing Sudoku and brain games, and I love realizing websites (also at a very early stage, but loving it though!)
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/)
+
+
+
+
 
 <!--
 **3le81/3le81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
