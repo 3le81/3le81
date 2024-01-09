@@ -32,7 +32,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time, I like to practice on Codewars and I love playing Sudoku and brain games, and I love realizing websites (also at a very early stage, but loving it though!)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/) [![Codewars Badge](https://www.codewars.com/users/3le81/badges/micro)](https://www.codewars.com/users/3le81)
 
 ---
 
