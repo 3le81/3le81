@@ -30,13 +30,24 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :seedling:  Passionate about learning and eager to apply newfound skills in real-world projects.
 
-- :zap: In my free time, I like to practice on Codewars and I love playing Sudoku and brain games, and I love realizing websites (also at a very early stage, but loving it though!)
+- :zap: In my free time, I like to practice coding on Codewars, I love playing Sudoku and brain games, and I love realizing websites (also at a very early stage, but loving it though!)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/) [![Codewars Badge](https://www.codewars.com/users/3le81/badges/micro)](https://www.codewars.com/users/3le81)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" **alt="Codepen" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
+</div>
 
 
 
