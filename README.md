@@ -25,12 +25,15 @@
 ---
 
 ### :woman_technologist: About Me :
+
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 - :telescope: I’m studying as a Software Web Developer and as a Software Engineer, and practicing to frontend and backend for building web projects.
 
 - :seedling:  Passionate about learning and eager to apply newfound skills in real-world projects.
 
 - :zap: In my free time, I like to practice coding on Codewars, I love playing Sudoku and brain games, and I love realizing websites (also at a very early stage, but loving it though!)
+  
+- :milky_way: Why did I choose that profile image? Well.. that is known as 'the Pillars of Creation' and is just a portion of the Eagle Nebula..can you think about how small we are in relation with the Universe? Isn't that AMAZING? :heart_eyes: Here you can see the photo in its greatness --> https://helios-i.mashable.com/imagery/articles/0509s0LFjI8h26i2MESpRH7/hero-image.fill.size_1248x702.v1666283790.png 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/) [![Codewars Badge](https://www.codewars.com/users/3le81/badges/micro)](https://www.codewars.com/users/3le81)
 
