@@ -49,6 +49,16 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3le81&theme=monokai)](https://git.io/streak-stats)
+
+
+
+
+
+
 
 
 <!--
