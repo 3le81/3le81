@@ -63,7 +63,5 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ---
 
 ### :writing_hand: Blog Posts :
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
