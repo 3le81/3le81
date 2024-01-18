@@ -21,7 +21,6 @@
 
 ---
 
-
 ### :woman_technologist: About Me :
 
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
@@ -33,7 +32,11 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
   
 - :milky_way: Why this profile picture, you ask? It's a snapshot of 'the Pillars of Creation,' just a tiny slice of the vast Eagle Nebula. It's my little reminder of how minuscule we are in the grand tapestry of the universe. Mind-blowing, isn't it? If you want to check out the full cosmic glory, click here: <a href="https://helios-i.mashable.com/imagery/articles/0509s0LFjI8h26i2MESpRH7/hero-image.fill.size_1248x702.v1666283790.png" target="_blank">Pillars of Creation</a> 🌌✨
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/) [![Codewars Badge](https://www.codewars.com/users/3le81/badges/micro)](https://www.codewars.com/users/3le81)
+---
+
+### :mailbox: How to reach me :
+
+[![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/) [![Codewars Badge](https://www.codewars.com/users/3le81/badges/micro)](https://www.codewars.com/users/3le81)
 
 ---
 
