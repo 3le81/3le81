@@ -14,7 +14,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=3le81&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -27,13 +27,13 @@
 ### :woman_technologist: About Me :
 
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
-- :telescope: I’m studying as a Software Web Developer and as a Software Engineer, and practicing to frontend and backend for building web projects.
+- 🌐 Python & JS Adventurer | HTML & CSS Explorer | Code, Coffee, Repeat ☕
 
-- :seedling:  Passionate about learning and eager to apply newfound skills in real-world projects.
+- 🔭 Passionate about learning and eager to apply newfound skills in real-world projects.
 
-- :zap: In my free time, I like to practice coding on Codewars, I love playing Sudoku and brain games, and I love realizing websites (also at a very early stage, but loving it though!)
+- :zap: In my free time, you can catch me throwing down some code on Codewars or GitHub, tackling Sudoku puzzles for fun, and dabbling in web projects (they're in the early stages, but I'm digging it!) 🚀
   
-- :milky_way: Why did I choose that profile image? Well.. that is known as 'the Pillars of Creation' and is just a portion of the Eagle Nebula..can you think about how small we are in relation with the Universe? Isn't that AMAZING? :heart_eyes: Here you can see the photo in its greatness --> https://helios-i.mashable.com/imagery/articles/0509s0LFjI8h26i2MESpRH7/hero-image.fill.size_1248x702.v1666283790.png 
+- :milky_way: Why this profile picture, you ask? It's a snapshot of 'the Pillars of Creation,' just a tiny slice of the vast Eagle Nebula. It's my little reminder of how minuscule we are in the grand tapestry of the universe. Mind-blowing, isn't it? If you want to check out the full cosmic glory, click here: <a href="https://helios-i.mashable.com/imagery/articles/0509s0LFjI8h26i2MESpRH7/hero-image.fill.size_1248x702.v1666283790.png" target="_blank">Pillars of Creation</a> 🌌✨
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-3le81-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elena-pagano-24000075/) [![Codewars Badge](https://www.codewars.com/users/3le81/badges/micro)](https://www.codewars.com/users/3le81)
 
