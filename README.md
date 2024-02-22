@@ -28,7 +28,7 @@
 
 - :zap: In my free time, you can catch me throwing down some code on Codewars or GitHub, tackling Sudoku puzzles for fun, and dabbling in web projects (they're in the early stages, but I'm digging it!) 🚀
   
-- :milky_way: Why this profile picture, you ask? It's a snapshot of 'the Pillars of Creation,' just a tiny slice of the vast Eagle Nebula. It's my little reminder of how minuscule we are in the grand tapestry of the universe. Mind-blowing, isn't it? If you want to check out the full cosmic glory, click here: <a href="https://helios-i.mashable.com/imagery/articles/0509s0LFjI8h26i2MESpRH7/hero-image.fill.size_1248x702.v1666283790.png" target="_blank">Pillars of Creation</a> 🌌✨
+- :milky_way: Why did I choose that profile picture, you ask? It's a snapshot of 'the Pillars of Creation,' just a tiny slice of the vast Eagle Nebula. It's my little reminder of how minuscule we are in the grand tapestry of the universe. Mind-blowing, isn't it? If you want to check out the full cosmic glory, click here: <a href="https://helios-i.mashable.com/imagery/articles/0509s0LFjI8h26i2MESpRH7/hero-image.fill.size_1248x702.v1666283790.png" target="_blank">Pillars of Creation</a> 🌌✨
 
 ---
 
