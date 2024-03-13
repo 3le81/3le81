@@ -24,7 +24,7 @@
 
   I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy,  currently wrapping up my Software        Engineering Bootcamp with HyperionDev, where I've delved into Python and SQL. Also, I've been expanding my skill set through online courses and the Founders and Coders Web   Development Course, focusing on HTML, CSS, JavaScript, Node.js, and React.
 
-- 🔭 Passionate about learning and eager to apply newfound skills in real-world projects.
+- 🔭 Passionate about learning and eager to apply newfound skills in real-world projects (watch this example <a href="https://github.com/3le81/climate_change_colours_project">here</a>, I had so much fun in completing it!)
 
 - :zap: In my free time, you can catch me throwing down some code on Codewars or GitHub, tackling Sudoku puzzles for fun, and dabbling in web projects (they're in the early stages, but I'm digging it!) 🚀
   
