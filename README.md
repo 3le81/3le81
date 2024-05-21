@@ -22,7 +22,7 @@
 
 - 🌐 Python & JavaScript Adventurer | HTML & CSS Explorer | Code, Coffee, Repeat ☕
 
-  I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy,  currently wrapping up my Software        Engineering Bootcamp with HyperionDev, where I've delved into Python and SQL. Also, I've been expanding my skill set through online courses and the Founders and Coders Web   Development Course, focusing on HTML, CSS, JavaScript, Node.js, and React.
+  I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy. I have completed the Software Engineering Bootcamp with HyperionDev, where I learned Python and SQL, and the Founders and Coders Web Development Course, where I gained experience in HTML, CSS, JavaScript, Node.js, React, deploying webpages on AWS, and automating deployments from GitHub to AWS. I'm continuously building my skills and working on projects to enhance my knowledge.
 
 - 🔭 Passionate about learning and eager to apply newfound skills in real-world projects (watch this example <a href="https://github.com/3le81/climate_change_colours_project">here</a>, I had so much fun in completing it!)
 
